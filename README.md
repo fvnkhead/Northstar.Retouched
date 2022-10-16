@@ -25,9 +25,9 @@ Change summary
 
   * BTK = bullets to kill
 
-| Weapon     | Near damage    | Far damage      | Very far damage  |
-|------------|----------------|-----------------|------------------|
-| CAR        | 7 BTK (from 4) | 10 BTK (from 7) | 12 BTK (from 10) |
+| Weapon     | Near damage           | Far damage             | Very far damage        |
+|------------|-----------------------|------------------------|------------------------|
+| CAR        | 25 -> 15 (4 -> 7 BTK) | 13 -> 10 (7 -> 10 BTK) | 10 -> 9 (10 -> 12 BTK) |
 | Alternator | 5 BTK (from 3) | 8 BTK (from 6)  | 10 BTK (from 8)  |
 | Volt       | 6 BTK (from 4) | 9 BTK (from 7)  | 10 BTK (from 9)  |
 | R97        | 7 BTK (from 5) | 12 BTK (from 9) | 13 BTK (from 10) |
