@@ -34,9 +34,13 @@ Change summary
 | R101       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
 | R201       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
 | Flatline   | 5 BTK (from 4) | 5 BTK (vanilla) | 7 BTK (vanilla)  |
-| Spitfire   | 4 BTK (from 5) | 5 BTK (from 4)  | 5 BTK (vanilla)  |
+| Spitfire   | 4 BTK (from 3) | 5 BTK (from 4)  | 6 BTK (from 5)   |
+| EVA-8      | 200 -> 150     | 10 (vanilla)    | -                |
 
-TODO: the rest of the thing
+### Notes
+
+  * SMGs have decreased damage across all ranges
+  * ARs have near range damage decreased, but vanilla far ranges
 
 Development
 --------------------------------------------------------------------------------
@@ -93,6 +97,8 @@ by passing a substring, eg.:
 Make sure `./diffs.sh` includes only actual changes, not anything else (like whitespace changes and such).
 
 ### Editing
+
+_Always_ keep `README.md` up-to-date with changes.
 
 When editing a file under `keyvalues/scripts/weapons`, put a comment after the line explaining
 the change like this:

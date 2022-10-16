@@ -114,7 +114,7 @@ WeaponData
 
 		"damage_near_value"   							"25" // CHANGE/NERF: 35 -> 25 (3 -> 4 bullets)
 		"damage_far_value"								"20" // CHANGE/NERF: 25 -> 20 (4 -> 5 bullets)
-		"damage_very_far_value"							"20"
+		"damage_very_far_value"							"17" // CHANGE/NERF: 20 -> 17 (5 -> 6 bullets)
 		"damage_near_value_titanarmor"					"80"
 		"damage_far_value_titanarmor" 					"60"
 		"damage_rodeo" 									"200"
