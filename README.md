@@ -29,6 +29,8 @@ Change summary
 | Alternator | 5 bullets to kill (from 3) |
 | Volt       | 6 bullets to kill (from 4) |
 | R97        | 7 bullets to kill (from 5) |
+| R101       | 5 bullets to kill (from 4) |
+| R201       | 5 bullets to kill (from 4) |
 
 TODO: the rest of the thing
 
