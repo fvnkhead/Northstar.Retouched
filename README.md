@@ -31,8 +31,8 @@ Change summary
 | Alternator | 5 BTK (from 3) | 8 BTK (from 6)  | 10 BTK (from 8)  |
 | Volt       | 6 BTK (from 4) | 9 BTK (from 7)  | 10 BTK (from 9)  |
 | R97        | 7 BTK (from 5) | 12 BTK (from 9) | 13 BTK (from 10) |
-| R101       | 5 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
-| R201       | 5 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
+| R101       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
+| R201       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
 | Flatline   | 5 BTK (from 4) | 5 BTK (vanilla) | 7 BTK (vanilla)  |
 
 TODO: the rest of the thing

@@ -107,7 +107,7 @@ WeaponData
 
 		"damage_flags"									"DF_BULLET | DF_INSTANT | DF_DISMEMBERMENT"
 
-		"damage_near_value"   							"20" // CHANGE/NERF: 25 -> 20 (4 -> 5 bullets)
+		"damage_near_value"   							"17" // CHANGE/NERF: 25 -> 17 (4 -> 6 bullets)
 		"damage_far_value"								"17"//15
 
 		"damage_near_value_titanarmor"					"70"
