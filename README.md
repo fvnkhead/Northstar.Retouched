@@ -23,14 +23,17 @@ For now:
 Change summary
 --------------------------------------------------------------------------------
 
-| Weapon     | Change                     |
-|------------|----------------------------|
-| CAR        | 7 bullets to kill (from 4) |
-| Alternator | 5 bullets to kill (from 3) |
-| Volt       | 6 bullets to kill (from 4) |
-| R97        | 7 bullets to kill (from 5) |
-| R101       | 5 bullets to kill (from 4) |
-| R201       | 5 bullets to kill (from 4) |
+  * BTK = bullets to kill
+
+| Weapon     | Near damage    | Far damage      | Very far damage  |
+|------------|----------------|-----------------|------------------|
+| CAR        | 7 BTK (from 4) | 10 BTK (from 7) | 12 BTK (from 10) |
+| Alternator | 5 BTK (from 3) | 8 BTK (from 6)  | 10 BTK (from 8)  |
+| Volt       | 6 BTK (from 4) | 9 BTK (from 7)  | 10 BTK (from 9)  |
+| R97        | 7 BTK (from 5) | 12 BTK (from 9) | 13 BTK (from 10) |
+| R101       | 5 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
+| R201       | 5 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
+| Flatline   | 5 BTK (from 4) | 5 BTK (vanilla) | 7 BTK (vanilla)  |
 
 TODO: the rest of the thing
 
@@ -42,27 +45,27 @@ Development
 Make changes based on how many bullets are needed for kill,
 because that's most noticeable for the player.
 
-| Damage range | Bullets for kill |
-|--------------|------------------|
-| 100+         | 1                |
-| 50 - 99      | 2                |
-| 34 - 49      | 3                |
-| 25 - 33      | 4                |
-| 20 - 24      | 5                |
-| 17 - 19      | 6                |
-| 15 - 16      | 7                |
-| 13 - 14      | 8                |
-| 12           | 9                |
-| 10 - 11      | 10               |
-| 9            | 12               |
-| 8            | 13               |
-| 7            | 15               |
-| 6            | 17               |
-| 5            | 20               |
-| 4            | 25               |
-| 3            | 34               |
-| 2            | 50               |
-| 1            | 100              |
+| Damage range | Bullets to kill |
+|--------------|-----------------|
+| 100+         | 1               |
+| 50 - 99      | 2               |
+| 34 - 49      | 3               |
+| 25 - 33      | 4               |
+| 20 - 24      | 5               |
+| 17 - 19      | 6               |
+| 15 - 16      | 7               |
+| 13 - 14      | 8               |
+| 12           | 9               |
+| 10 - 11      | 10              |
+| 9            | 12              |
+| 8            | 13              |
+| 7            | 15              |
+| 6            | 17              |
+| 5            | 20              |
+| 4            | 25              |
+| 3            | 34              |
+| 2            | 50              |
+| 1            | 100             |
 
 
 ### Weapon code names
