@@ -36,6 +36,7 @@ Change summary
 | Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
 | Spitfire   | 35 -> 25 (3 -> 4 BTK) | 25 -> 20 (4 -> 5 BTK)  | 20 -> 17 (5 -> 6 BTK)  |
 | EVA-8      | 200 -> 150            | 10 (_vanilla_)         | -                      |
+| Melee      | 100 -> 70             | -                      | -                      |
 
 ### Notes
 
