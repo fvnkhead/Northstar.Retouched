@@ -30,7 +30,7 @@ Change summary
 | CAR        | 25 -> 15 (4 -> 7 BTK) | 13 -> 10 (7 -> 10 BTK) | 10 -> 9 (10 -> 12 BTK) |
 | Alternator | 35 -> 20 (3 -> 5 BTK) | 18 -> 13 (6 -> 8 BTK)  | 14 -> 10 (8 -> 10 BTK) |
 | Volt       | 25 -> 17 (4 -> 6 BTK) | 15 -> 12 (7 -> 9 BTK)  | 12 -> 10 (9 -> 10 BTK) |
-| R97        | 20 -> 13 (5 -> 8 BTK) | 12 -> 10 (9 -> 13 BTK)  | 10 -> 7 (10 -> 15 BTK) |
+| R97        | 20 -> 13 (5 -> 8 BTK) | 12 -> 8 (9 -> 13 BTK)  | 10 -> 7 (10 -> 15 BTK) |
 | R101       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
 | R201       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
 | Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
