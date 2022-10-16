@@ -28,14 +28,14 @@ Change summary
 | Weapon     | Near damage           | Far damage             | Very far damage        |
 |------------|-----------------------|------------------------|------------------------|
 | CAR        | 25 -> 15 (4 -> 7 BTK) | 13 -> 10 (7 -> 10 BTK) | 10 -> 9 (10 -> 12 BTK) |
-| Alternator | 5 BTK (from 3) | 8 BTK (from 6)  | 10 BTK (from 8)  |
-| Volt       | 6 BTK (from 4) | 9 BTK (from 7)  | 10 BTK (from 9)  |
-| R97        | 7 BTK (from 5) | 12 BTK (from 9) | 13 BTK (from 10) |
-| R101       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
-| R201       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
-| Flatline   | 5 BTK (from 4) | 5 BTK (vanilla) | 7 BTK (vanilla)  |
-| Spitfire   | 4 BTK (from 3) | 5 BTK (from 4)  | 6 BTK (from 5)   |
-| EVA-8      | 200 -> 150     | 10 (vanilla)    | -                |
+| Alternator | 35 -> 20 (3 -> 5 BTK) | 18 -> 13 (6 -> 8 BTK)  | 14 -> 10 (8 -> 10 BTK) |
+| Volt       | 25 -> 17 (4 -> 6 BTK) | 15 -> 12 (7 -> 9 BTK)  | 12 -> 10 (9 -> 10 BTK) |
+| R97        | 20 -> 15 (5 -> 7 BTK) | 12 -> 9 (9 -> 12 BTK)  | 10 -> 8 (10 -> 13 BTK) |
+| R101       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
+| R201       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
+| Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
+| Spitfire   | 35 -> 25 (3 -> 4 BTK) | 25 -> 20 (4 -> 5 BTK)  | 20 -> 17 (5 -> 6 BTK)  |
+| EVA-8      | 200 -> 150            | 10 (_vanilla_)         | -                      |
 
 ### Notes
 
