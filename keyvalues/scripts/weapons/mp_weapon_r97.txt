@@ -111,8 +111,8 @@ WeaponData
 		"aimassist_adspull_weaponclass"					"broad"
 
 		// Damage - When Used by Players
-		"damage_near_value"   							"14" // CHANGE/NERF: 20 -> 14 (5 -> 8 bullets)
-		"damage_far_value"								"10" // CHANGE/NERF: 12 -> 10 (9 -> 12 bullets)
+		"damage_near_value"   							"13" // CHANGE/NERF: 20 -> 14 (5 -> 8 bullets)
+		"damage_far_value"								"10" // CHANGE/NERF: 12 -> 8 (9 -> 13 bullets)
 		"damage_near_value_titanarmor"					"65"
 		"damage_far_value_titanarmor" 					"35"
 		"damage_rodeo" 									"110"
