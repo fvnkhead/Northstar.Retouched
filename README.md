@@ -34,6 +34,7 @@ Change summary
 | R101       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
 | R201       | 6 BTK (from 4) | 6 BTK (vanilla) | 9 BTK (vanilla)  |
 | Flatline   | 5 BTK (from 4) | 5 BTK (vanilla) | 7 BTK (vanilla)  |
+| Spitfire   | 4 BTK (from 5) | 5 BTK (from 4)  | 5 BTK (vanilla)  |
 
 TODO: the rest of the thing
 
