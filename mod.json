@@ -2,5 +2,20 @@
     "Name": "Northstar.Retouched",
     "Description": "Vanilla balance, just less so",
     "Version": "0.1.0",
-    "LoadPriority": 10
+    "LoadPriority": 1,
+    "ConVars": [
+        {
+            "Name": "retouched_loaded",
+            "DefaultValue": "false"
+        }
+    ],
+    "Scripts": [
+        {
+            "Path": "retouched.nut",
+            "RunOn": "SERVER",
+            "ServerCallback": {
+                "After": "Retouched_Init"
+            }
+        }
+    ]
 }
