@@ -99,7 +99,8 @@ Make sure `./diffs.sh` includes only actual changes, not anything else (like whi
 
 ### Editing
 
-_Always_ keep `README.md` up-to-date with changes.
+_Always_ keep `README.md` and [retouched.nut](./mod/scripts/vscripts/retouched.nut)
+up-to-date with changes.
 
 When editing a file under `keyvalues/scripts/weapons`, put a comment after the line explaining
 the change like this:
