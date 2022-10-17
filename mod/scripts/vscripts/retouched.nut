@@ -52,7 +52,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Flatline",
         "Near damage: 30 -> 20 (4 -> 5 bullets)",
-        "Far damage: 20 (5 bullets) (vanilla)",
+        "Far damage: 17 (6 bullets)",
         "Very far damage: 15 (7 bullets) (vanilla)"
     ],
     [

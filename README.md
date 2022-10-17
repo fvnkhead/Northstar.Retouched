@@ -33,7 +33,7 @@ Change summary
 | R97        | 20 -> 13 (5 -> 8 BTK) | 12 -> 8 (9 -> 13 BTK)  | 10 -> 7 (10 -> 15 BTK) |
 | R101       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
 | R201       | 25 -> 17 (4 -> 6 BTK) | 17 (6 BTK) (_vanilla_) | 12 (9 BTK) (_vanilla_) |
-| Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
+| Flatline   | 30 -> 20 (4 -> 5 BTK) | 17 (6 BTK)             | 15 (7 BTK) (_vanilla_) |
 | Spitfire   | 35 -> 25 (3 -> 4 BTK) | 25 -> 20 (4 -> 5 BTK)  | 20 -> 17 (5 -> 6 BTK)  |
 | EVA-8      | 200 -> 150            | 10 (_vanilla_)         | -                      |
 | Melee      | 100 -> 70             | -                      | -                      |
