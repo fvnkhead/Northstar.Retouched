@@ -5,13 +5,14 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Summary",
         "SMGs: around -50% damage",
         "R201/R101/Flatline/Spitfire/EVA-8: around -25% damage",
+        "Gravity star: -33% pull time",
         "Melee: 70 damage"
     ],
     [
         "Goals",
         "1. Not a perfect rebalance, just vanilla but a little less so",
         "2. Nerfing stronger weapons a little, but leaving rest be",
-        "3. Minimal changes preferred, like damage only"
+        "3. Minimal changes preferred, like damage only for guns"
     ],
     [
         "CAR",
@@ -67,8 +68,16 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Far damage: 10 (vanilla)"
     ],
     [
+        "Grav",
+        "Pull time: 2.0s -> 1.33s (-33%)"
+    ],
+    [
         "Melee",
         "Damage: 100 -> 70"
+    ],
+    [
+        "Github",
+        "github.com/fvnkhead/Northstar.Retouched"
     ]
 ]
 
