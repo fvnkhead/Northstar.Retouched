@@ -11,17 +11,18 @@ Goals
   3. Minimal changes
   4. Avoiding _scope creep_ which causes unnecessary changes to accumulate
 
-Constaints
+Constraints
 --------------------------------------------------------------------------------
 
 For now:
 
-  1. Damage changes only, no messing with other variables like falloffs or headshot multipliers
-  2. SMG, R201/101, Flatline, EVA-8 and Spitfire changes only
-  3. No tactical and ordnance changes (yet)
+  1. Changing 1 value only per item (eg. damage for guns, pull time for gravity star, etc.)
+  2. No primary gun changes on top of SMGs, R201/101, Flatline, EVA-8 and Spitfire
 
 Change summary
 --------------------------------------------------------------------------------
+
+### Primary weapons
 
   * BTK = bullets to kill
 
@@ -38,10 +39,21 @@ Change summary
 | EVA-8      | 200 -> 150            | 10 (_vanilla_)         | -                      |
 | Melee      | 100 -> 70             | -                      | -                      |
 
-### Notes
+#### Notes
 
   * SMGs have decreased damage across all ranges
   * ARs have near range damage decreased, but vanilla far ranges
+  * Melee now needs to be used on a slightly damaged enemy
+
+### Ordnances
+
+| Ordnance     | Change                                  |
+|--------------|-----------------------------------------|
+| Gravity star | Pull time reduced by -33% (2.0 -> 1.33) |
+
+#### Notes
+
+  * Gravity star is still good if user aims more quickly, while being slightly less annoying for the victim
 
 Development
 --------------------------------------------------------------------------------
@@ -83,10 +95,14 @@ because that's most noticeable for the player.
 [Link](https://github.com/harmonytf/HarmonyVPKTool/releases/tag/1.2.0)
 
   1. Open `vpk/englishclient_mp_common.bsp.pak000_dir.vpk` in your Titanfall 2 install directory
-  2. In the VPK, open `RootDir/scripts/weapons`
+  2. In the VPK, open:
+    * `RootDir/scripts/weapons` for keyvalue files
+    * `RootDir/scripts/vscripts/weapons` for Squirrel scripts
   3. Unpack the file somewhere on your PC
-  4. Copy the file under `reference/` and `keyvalues/scripts/weapons`
-  5. Leave the file under `reference/` as is, changes are made in `keyvalues/scripts/weapons`
+  4. Copy the file under `reference/` and:
+    * `keyvalues/scripts/weapons`, if it's a keyvalue file
+    * `mod/scripts/vscripts/weapons`, if it's a Squirrel script
+  5. Leave the file under `reference/` as is, changes are made in `keyvalues/scripts/weapons` or `mod/scripts/vscripts/weapons`
 
 ### Change tracking
 
