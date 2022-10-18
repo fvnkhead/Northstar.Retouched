@@ -96,12 +96,12 @@ because that's most noticeable for the player.
 
   1. Open `vpk/englishclient_mp_common.bsp.pak000_dir.vpk` in your Titanfall 2 install directory
   2. In the VPK, open:
-    - `RootDir/scripts/weapons` for keyvalue files
-    - `RootDir/scripts/vscripts/weapons` for Squirrel scripts
+     - `RootDir/scripts/weapons` for keyvalue files
+     - `RootDir/scripts/vscripts/weapons` for Squirrel scripts
   3. Unpack the file somewhere on your PC
   4. Copy the file under `reference/` and:
-    - `keyvalues/scripts/weapons`, if it's a keyvalue file
-    - `mod/scripts/vscripts/weapons`, if it's a Squirrel script
+     - `keyvalues/scripts/weapons`, if it's a keyvalue file
+     - `mod/scripts/vscripts/weapons`, if it's a Squirrel script
   5. Leave the file under `reference/` as is, changes are made in `keyvalues/scripts/weapons` or `mod/scripts/vscripts/weapons`
 
 ### Change tracking
