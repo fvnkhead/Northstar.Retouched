@@ -95,14 +95,14 @@ WeaponData
 		"aimassist_adspull_weaponclass"					"precise"
 
 		// Damage - When Used by Players
-		"damage_near_value"   							"30"
-		"damage_far_value"								"20"
+		"damage_near_value"   							"30"  // CHANGE/NERF: 30 -> 20 (4 -> 5 bullets)
+		"damage_far_value"								"17"  // CHANGE/NERF: 20 -> 17 (5 -> 6 bullets)
 		"damage_near_value_titanarmor"					"100"
 		"damage_far_value_titanarmor" 					"70"
 		"damage_rodeo" 									"190"
 		"damage_near_distance"							"750"  // match to search distance and red crosshair range
 		"damage_far_distance" 							"1000"
-   	 	"damage_very_far_value"							"15"
+   	 	"damage_very_far_value"							"13"   // CHANGE/NERF: 15 -> 13 (7 -> 8 bullets)
    		"damage_very_far_distance"						"2000"
 
 		"damage_headshot_scale"							"2"
