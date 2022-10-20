@@ -68,6 +68,20 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "Far damage: 10 (vanilla)"
     ],
     [
+        "P2016",
+        "Near damage: 30 -> 20 (4 -> 5 bullets)"
+        "Far damage: 20 -> 17 (5 -> 6 bullets)"
+        "Very far damage: 15 -> 13 (7 -> 8 bullets)"
+
+    ],
+    [
+        "re45",
+        "Near damage: 20 -> 15 (4 -> 7 bullets)"
+        "Far damage: 13 -> 12 (8 -> 9 bullets)"
+        "Very far damage: 9 -> 8 (12 -> 13 bullets)"
+
+    ],
+    [
         "Grav",
         "Pull time: 2.0s -> 1.33s (-33%)"
     ],
