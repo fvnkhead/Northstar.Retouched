@@ -95,7 +95,7 @@ WeaponData
 		"aimassist_adspull_weaponclass"					"precise"
 
 		// Damage - When Used by Players
-		"damage_near_value"   							"30" //CHANGE/NERF: 30 -> 20 (4 -> 5 bullets) 
+		"damage_near_value"   							"20" //CHANGE/NERF: 30 -> 20 (4 -> 5 bullets)
 		"damage_far_value"								"17" //CHANGE/NERF: 20 -> 17 (5 -> 6 bullets) 
 		"damage_near_value_titanarmor"					"100"
 		"damage_far_value_titanarmor" 					"70"
