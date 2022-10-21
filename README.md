@@ -37,13 +37,13 @@ Change summary
 | Flatline   | 30 -> 20 (4 -> 5 BTK) | 20 (5 BTK) (_vanilla_) | 15 (7 BTK) (_vanilla_) |
 | Spitfire   | 35 -> 25 (3 -> 4 BTK) | 25 -> 20 (4 -> 5 BTK)  | 20 -> 17 (5 -> 6 BTK)  |
 | EVA-8      | 200 -> 150            | 10 (_vanilla_)         | -                      |
-| Melee      | 100 -> 70             | -                      | -                      | 
-| Re45       | 20 -> 15 (4 -> 7 BTK) | 13 -> 12 (7 -> 9  BTK) | 9  -> 8 (12 -> 13 BTK) |
+| RE-45      | 20 -> 15 (4 -> 7 BTK) | 13 -> 12 (7 -> 9  BTK) | 9  -> 8 (12 -> 13 BTK) |
 | P2016      | 30 -> 20 (4 -> 5 BTK) | 20 -> 17 (5 -> 6  BTK) | 15 -> 13  (7 -> 8 BTK) |
+| Melee      | 100 -> 70             | -                      | -                      |
 
 #### Notes
 
-  * SMGs have decreased damage across all ranges
+  * SMGs and sidearms have decreased damage across all ranges
   * ARs have near range damage decreased, but vanilla far ranges
   * Melee now needs to be used on a slightly damaged enemy
 
