@@ -76,7 +76,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     ],
     [
         "RE45",
-        "Near damage: 20 -> 15 (4 -> 7 bullets)"
+        "Near damage: 20 -> 15 (5 -> 7 bullets)"
         "Far damage: 13 -> 12 (8 -> 9 bullets)"
         "Very far damage: 9 -> 8 (12 -> 13 bullets)"
 
