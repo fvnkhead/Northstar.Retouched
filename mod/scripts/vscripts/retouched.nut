@@ -4,7 +4,7 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
     [
         "Summary",
         "SMGs: around -50% damage",
-        "R201/R101/Flatline/Spitfire/EVA-8: around -25% damage",
+        "R201/R101/Flatline/Spitfire/EVA-8/RE-45/P2016: around -25% damage",
         "Gravity star: -33% pull time",
         "Melee: 70 damage"
     ],
@@ -66,6 +66,20 @@ global array< array<string> > RETOUCHED_CHANGELIST = [
         "EVA",
         "Near damage: 200 -> 150",
         "Far damage: 10 (vanilla)"
+    ],
+    [
+        "P2016",
+        "Near damage: 30 -> 20 (4 -> 5 bullets)"
+        "Far damage: 20 -> 17 (5 -> 6 bullets)"
+        "Very far damage: 15 -> 13 (7 -> 8 bullets)"
+
+    ],
+    [
+        "RE45",
+        "Near damage: 20 -> 15 (5 -> 7 bullets)"
+        "Far damage: 13 -> 12 (8 -> 9 bullets)"
+        "Very far damage: 9 -> 8 (12 -> 13 bullets)"
+
     ],
     [
         "Grav",
