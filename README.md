@@ -1,6 +1,8 @@
 Northstar.Retouched (work in progress)
 ================================================================================
 
+Repository archived, new one [here](https://github.com/fvnknoots/fvnknoots.Retouched)
+
 Vanilla balance, just less so.
 
 Goals
